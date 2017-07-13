@@ -27,7 +27,7 @@ namespace AcquaintCrossPlatform
 					.Android
 					// TODO: Update this path to point to your Android app and uncomment the
 					// code if the app is not included in the solution.
-					.ApkFile("/Users/junecho/Desktop/apkS/AcquaintDemo.apk")
+					.ApkFile("/Users/junecho/Desktop/apkS/Acquaint.apk")
 					.StartApp();
 			}
 

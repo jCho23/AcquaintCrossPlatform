@@ -28,7 +28,15 @@ namespace AcquaintCrossPlatform
 		[Test]
 		public void AppLaunches()
 		{
-			app.Screenshot("First screen.");
+			app.Repl();
 		}
+
+		[Test]
+		public void CrossPlatformTest()
+		{
+
+		}
+
+
 	}
 }
